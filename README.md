@@ -1,5 +1,4 @@
-
-_About the Project_
+##_About the Project_
 
 ●	Implemented a time series model to accurately forecast the future stock prices of Netflix Inc.
 
