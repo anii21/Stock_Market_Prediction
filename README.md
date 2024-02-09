@@ -1,4 +1,6 @@
-#About the Project
+
+_About the Project_
+
 ●	Implemented a time series model to accurately forecast the future stock prices of Netflix Inc.
 
 ●	Utilized the TIINGO API to retrieve the historical stock price data spanning from January 2016 to March 2021.
